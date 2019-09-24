@@ -5,4 +5,4 @@
   - Exercise3 - Improve MNIST with convolutions (Copy_of_Exercise_3_Question.ipynb)<br/>
   - Exercise4 - Handling complex images (Copy_of_Exercise_4_Question.ipynb)<br/>
 ## Course2 - Convolutional Neural Networks in TensorFlow<br/>
-  - Exercise1 - Cats vs. Dogs (Exercise 5 - Question.ipynb)<br/>
+  - Exercise1 - Cats vs. Dogs (Copy_of_Exercise_5_Question.ipynb)<br/>
