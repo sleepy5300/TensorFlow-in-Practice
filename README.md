@@ -8,3 +8,4 @@
   - Exercise1 - Cats vs. Dogs (Copy_of_Exercise_5_Question.ipynb)<br/>
   - Exercise2 - Cats vs. Dogs using augmentation (Copy_of_Exercise_6_Question.ipynb)<br/>
   - Exercise3 - Horses vs. humans using Transfer Learning (Copy_of_Exercise_7_Question.ipynb)<br/>
+  - Exercise4 - Multi-class classifier (Copy_of_Exercise_8_Question.ipynb)<br/>
