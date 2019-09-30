@@ -10,4 +10,6 @@
   - Exercise3 - Horses vs. humans using Transfer Learning (Copy_of_Exercise_7_Question.ipynb)<br/>
   - Exercise4 - Multi-class classifier (Copy_of_Exercise_8_Question.ipynb)<br/>
 ## Course3 - Natural Language Processing in TensorFlow<br/>
-  - Exercise1 - Explore the BBC news archive (Copy_of_Exercise_question.ipynb)<br/>
+  - Exercise1 - Explore the BBC news archive (Copy_of_Course_3_Week_1_Exercise_Question.ipynb)<br/>
+  - Exercise2 - BBC news archive (Copy_of_Course_3_Week_2_Exercise_Question.ipynb)<br/>
+  
