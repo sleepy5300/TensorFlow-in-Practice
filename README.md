@@ -12,4 +12,4 @@
 ## Course3 - Natural Language Processing in TensorFlow<br/>
   - Exercise1 - Explore the BBC news archive (Copy_of_Course_3_Week_1_Exercise_Question.ipynb)<br/>
   - Exercise2 - BBC news archive (Copy_of_Course_3_Week_2_Exercise_Question.ipynb)<br/>
-  
+  - Exercise3 - Exploring overfitting in NLP (Copy_of_Course_3_Week_3_Exercise_Question.ipynb)<br/>
