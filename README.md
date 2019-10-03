@@ -13,3 +13,5 @@
   - Exercise1 - Explore the BBC news archive (Copy_of_Course_3_Week_1_Exercise_Question.ipynb)<br/>
   - Exercise2 - BBC news archive (Copy_of_Course_3_Week_2_Exercise_Question.ipynb)<br/>
   - Exercise3 - Exploring overfitting in NLP (Copy_of_Course_3_Week_3_Exercise_Question.ipynb)<br/>
+  - Exercise4 - Using LSTMs, see if you can write Shakespeare! (Copy_of_Course_3_Week_4_Exercise_Question.ipynb)<br/>
+  
