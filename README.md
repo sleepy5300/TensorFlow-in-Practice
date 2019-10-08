@@ -18,3 +18,4 @@
   - Exercise1 - Create and predict synthetic data (Copy_of_Course_4_Week_1_Exercise_Question.ipynb)<br/>
   - Exercise2 - Predict with a DNN (Copy_of_Course_4_Week_2_Exercise_Question.ipynb)<br/>
   - Exercise3 - Mean Absolute Error (Copy_of_Course_4_Week_3_Exercise_Question.ipynb)<br/>
+  - Exercise4 - Sunspots (Copy_of_Course_4_Week_4_Exercise_Question.ipynb)<br/>
